@@ -1,0 +1,1 @@
+DATASET_PATH = "/home/anj/Documents/job seeking/2023-10-08 astra mobbi arbeit/e-commerce sales/input/data.csv"
